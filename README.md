@@ -3,6 +3,8 @@
 
 # 🎭 Orion4D Anaglyph for ComfyUI
 
+![Orion4D Anaglyph Workflow](orion4d_anaglyph_workflow.png)
+
 **Orion4D Anaglyph** is a high-performance custom node designed to transform 2D images into stereoscopic (3D) renders via a depth map. It offers total control over parallax, convergence, and depth processing to ensure optimal visual comfort.
 
 ---
