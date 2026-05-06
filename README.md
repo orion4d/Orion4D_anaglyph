@@ -16,6 +16,7 @@
 * **Multiple Outputs**: Generates the final anaglyph, Side-by-Side (SBS) format, isolated left/right views, and the processed depth map.
 * **Preset Manager**: Integrated JS interface to save, load, and update your favorite settings on the fly.
 * **Native Processing**: Optimized PyTorch implementation for maximum speed and cross-platform compatibility.
+<img width="617" height="1151" alt="image" src="https://github.com/user-attachments/assets/9fddacd8-c9fc-4b9e-a907-688c1919dff2" />
 
 ---
 
