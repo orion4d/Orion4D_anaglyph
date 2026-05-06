@@ -61,8 +61,8 @@ Orion4D_anaglyph/
 ---
 
 ## 🔄 Flux de Travail (Workflow)
-
-Le node s'insère idéalement après un estimateur de profondeur :
+* Glisser déposer orion 4d anaglyph workflow.png sur le canvas comfy
+* Le node s'insère idéalement après un estimateur de profondeur :
 
 ```text
 [ Image Source ] 
