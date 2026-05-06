@@ -1,0 +1,21 @@
+{
+  "name": "Soft Depth Dubois",
+  "version": 2,
+  "node": "Orion4D_DepthAnaglyph",
+  "values": {
+    "strength": 10,
+    "convergence": 0.52,
+    "shift_mode": "left_static",
+    "depth_invert": true,
+    "depth_blur": 10,
+    "depth_gamma": 1.15,
+    "depth_contrast": 0.75,
+    "near_clip": 0.04,
+    "far_clip": 0.96,
+    "anaglyph_mode": "optimized_dubois_red_cyan",
+    "sbs_layout": "left_right",
+    "swap_eyes": false,
+    "padding_mode": "border",
+    "interpolation": "bilinear"
+  }
+}
