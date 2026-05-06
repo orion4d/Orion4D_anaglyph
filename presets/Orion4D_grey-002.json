@@ -1,0 +1,21 @@
+{
+  "name": "Orion4D_grey-002",
+  "version": 2,
+  "node": "Orion4D_DepthAnaglyph",
+  "values": {
+    "strength": 12,
+    "convergence": 0.5,
+    "shift_mode": "symmetric",
+    "depth_invert": true,
+    "depth_blur": 6,
+    "depth_gamma": 1,
+    "depth_contrast": 1,
+    "near_clip": 0,
+    "far_clip": 1,
+    "anaglyph_mode": "gray_red_cyan",
+    "sbs_layout": "left_right",
+    "swap_eyes": false,
+    "padding_mode": "border",
+    "interpolation": "bilinear"
+  }
+}
