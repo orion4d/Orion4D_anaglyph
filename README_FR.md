@@ -24,6 +24,16 @@ Copiez le dossier `Orion4D_anaglyph` dans votre répertoire de nodes personnalis
 ```text
 ComfyUI/custom_nodes/Orion4D_anaglyph
 ```
+## Prérequis
+
+Aucune dépendance Python supplémentaire n'est requise au-delà d'une installation standard de ComfyUI.
+
+Ce nœud personnalisé utilise uniquement les modules déjà disponibles dans ComfyUI :
+
+- torch
+- aiohttp
+- ComfyUI PromptServer
+- Modules de la bibliothèque standard Python
 
 ### Structure du dossier
 ```text
