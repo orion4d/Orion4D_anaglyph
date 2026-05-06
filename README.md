@@ -24,7 +24,16 @@ Copy the `Orion4D_anaglyph` folder into your custom nodes directory:
 ```text
 ComfyUI/custom_nodes/Orion4D_anaglyph
 ```
+## Requirements
 
+No additional Python dependencies are required beyond a standard ComfyUI installation.
+
+This custom node uses only modules already available in ComfyUI:
+
+- torch
+- aiohttp
+- ComfyUI PromptServer
+- Python standard library modules
 ### Folder Structure
 ```text
 Orion4D_anaglyph/
@@ -33,7 +42,6 @@ Orion4D_anaglyph/
 ├── web/                   # User Interface (JS)
 └── presets/               # Your saved configurations
 ```
-
 ---
 
 ## ⚙️ Configuration Parameters
