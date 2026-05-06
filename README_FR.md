@@ -16,6 +16,7 @@
 * **Sorties Multiples** : Génère l'anaglyphe, le Side-by-Side (SBS), les vues gauche/droite isolées et la depth map traitée.
 * **Gestionnaire de Presets** : Interface JS intégrée pour sauvegarder, charger et mettre à jour vos réglages favoris.
 * **Traitement Natif** : Implémentation PyTorch optimisée pour la rapidité et la compatibilité.
+<img width="617" height="1151" alt="image" src="https://github.com/user-attachments/assets/9b53e5db-84bb-4398-9b01-73d80bf0a608" />
 
 ---
 
