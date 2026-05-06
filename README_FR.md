@@ -3,6 +3,8 @@
 
 # 🎭 Orion4D Anaglyph for ComfyUI
 
+![Orion4D Anaglyph Workflow](orion4d_anaglyph_workflow.png)
+
 **Orion4D Anaglyph** est un custom node performant conçu pour transformer des images 2D en rendus stéréoscopiques (3D) via une carte de profondeur (*depth map*). Il offre un contrôle total sur la parallaxe, la convergence et le traitement de la profondeur pour un confort visuel optimal.
 
 ---
