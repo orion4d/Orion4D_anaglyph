@@ -59,8 +59,8 @@ Orion4D_anaglyph/
 ---
 
 ## 🔄 Workflow
-Drag and drop orion4d_anaglyph_workflow.png onto the comfy canvas
-The node is best placed immediately after a depth estimator:
+* Drag and drop orion4d_anaglyph_workflow.png onto the comfy canvas
+* The node is best placed immediately after a depth estimator:
 
 ```text
 [ Source Image ] 
